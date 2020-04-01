@@ -1,0 +1,10 @@
+name: WildEssentialsSpawn
+main: com.gmail.filoghost.wildessentialsspawn.WildEssentialsSpawn
+version: 1.0
+softdepend: [WildCommons, SaveInventories]
+
+commands:
+   spawn:
+      description: Vai allo spawn.
+   setspawn:
+      description: Imposta lo spawn.
